@@ -47,7 +47,7 @@ This section will be updated as the project progresses.
 
 1. Load the fine-tuned model from the Hub.
 2. Provide a prompt describing the desired circuit.
-3. Save the generated XML output as a .circ file.
+3. Save the generated XML output as a `.circ` file.
 4. Open and test the file in Logisim Evolution.
 
 ---
