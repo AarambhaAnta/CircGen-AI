@@ -8,7 +8,7 @@ The primary objective is to take a natural language prompt, such as "Create a 4-
 
 ## Core Technologies
 
-- **Model**: `google/gemma-2b-it`
+- **Model**: `meta-llama/CodeLlama-7b-instruct-hf`
 - **Technique**: Instruction Fine-Tuning with LoRA
 - **Platform**: Hugging Face Ecosystem (`transformers`, `peft`, `datasets`)
 - **Environment**: Google Colab
